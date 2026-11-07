@@ -11,12 +11,14 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 975057b4fdcfb8142b3080d19a5cc712, type: 3}
   m_Name: OpenXR Editor Settings
-  m_EditorClassIdentifier: Unity.XR.OpenXR.Editor::UnityEditor.XR.OpenXR.OpenXREditorSettings
-  Keys: 0100000007000000i
+  m_EditorClassIdentifier: 
+  Keys: 0700000001000000
   Values:
   - featureSets:
-    - com.meta.openxr.featureset.metaxr
+    - com.unity.openxr.featureset.meta
+    - com.unity.openxr.featureset.android
   - featureSets:
-    - com.meta.openxr.featureset.metaxr
+    - com.unity.openxr.featureset.meta
+    - com.unity.openxr.featureset.android
   m_vulkanAdditionalGraphicsQueue: 0
   m_vulkanOffscreenSwapchainNoMainDisplay: 1
