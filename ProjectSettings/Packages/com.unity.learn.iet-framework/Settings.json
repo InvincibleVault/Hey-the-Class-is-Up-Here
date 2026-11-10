@@ -9,7 +9,11 @@
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "IET.DisplayWelcomeDialogOnStartup",
+<<<<<<< HEAD
                 "value": "{\"m_Value\":false}"
+=======
+                "value": "{\"m_Value\":true}"
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
             }
         ]
     }
