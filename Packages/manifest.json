@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "com.unity.ai.assistant": "2.21.0-pre.2",
+=======
     "com.unity.ai.assistant": "2.20.0-pre.2",
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
     "com.unity.ai.inference": "2.6.1",
     "com.unity.feature.development": "1.0.2",
     "com.unity.ide.rider": "3.0.38",
@@ -14,8 +18,17 @@
     "com.unity.netcode.gameobjects": "2.14.0",
     "com.unity.pipeline": "0.8.0-exp.1",
     "com.unity.render-pipelines.universal": "17.6.0",
+<<<<<<< HEAD
     "com.unity.services.multiplayer": "2.5.0",
     "com.unity.transport": "6.6.0",
+=======
+<<<<<<< HEAD
+    "com.unity.sdk.linux-arm64": "1.1.1",
+    "com.unity.sdk.linux-x86_64": "1.1.1",
+    "com.unity.toolchain.linux-x86_64-linux": "1.1.1",
+=======
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
+>>>>>>> de8c51e9702d73082eb04d6a19945f817566209e
     "com.unity.xr.androidxr-openxr": "1.4.0",
     "com.unity.xr.arfoundation": "6.6.2",
     "com.unity.xr.compositionlayers": "2.5.0",

@@ -7,7 +7,11 @@
       "dependencies": {}
     },
     "com.unity.ai.assistant": {
+<<<<<<< HEAD
+      "version": "2.21.0-pre.2",
+=======
       "version": "2.20.0-pre.2",
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -256,6 +260,27 @@
         "com.unity.render-pipelines.core": "17.6.0"
       }
     },
+<<<<<<< HEAD
+    "com.unity.sdk.linux-arm64": {
+      "version": "1.1.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot.base": "1.1.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.sdk.linux-x86_64": {
+      "version": "1.1.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot.base": "1.1.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+=======
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
     "com.unity.searcher": {
       "version": "4.9.5",
       "depth": 2,
@@ -361,6 +386,16 @@
         "com.unity.graph-authoring": "1.0.0"
       }
     },
+<<<<<<< HEAD
+    "com.unity.sysroot.base": {
+      "version": "1.1.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+=======
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
     "com.unity.test-framework": {
       "version": "1.8.0",
       "depth": 1,
@@ -390,6 +425,16 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+    "com.unity.toolchain.linux-x86_64-linux": {
+      "version": "1.1.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot.base": "1.1.1"
+      },
+      "url": "https://packages.unity.com"
+=======
     "com.unity.transport": {
       "version": "6.6.0",
       "depth": 0,
@@ -399,6 +444,7 @@
         "com.unity.burst": "1.8.24",
         "com.unity.mathematics": "1.4.0"
       }
+>>>>>>> 3562d8df9829953f798f99c763efeab33396d28d
     },
     "com.unity.ugui": {
       "version": "2.6.0",
