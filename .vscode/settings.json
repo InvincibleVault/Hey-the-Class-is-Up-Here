@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Hey-the-Class-is-Up-Here-full-menu-build.slnx"
+    "dotnet.defaultSolution": "VR Game Prototype.slnx"
 }
